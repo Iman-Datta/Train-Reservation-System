@@ -1,0 +1,28 @@
+# Compiled source files
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+
+# Executable (Linux/Mac/Windows)
+train_reservation
+
+# Debug and log files
+*.log
+*.tmp
+
+# IDE/Editor files
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+
+# Backup files
+*~
+*.bak
+
+# Build directories
+/build/
+/dist/
